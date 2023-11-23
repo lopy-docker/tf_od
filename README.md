@@ -9,7 +9,7 @@ https://github.com/tensorflow/models/tree/master/research/object_detection
 
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
 
-# change code
+# code changed
 
 https://github.com/tensorflow/models/tree/master/research/object_detection
 
@@ -22,3 +22,5 @@ https://github.com/tensorflow/models/tree/master/research/object_detection/packa
 
 
 # use
+
+wait ...
