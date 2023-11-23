@@ -2,8 +2,6 @@ FROM tensorflow/tensorflow:2.13.0-gpu
 
 ARG DEBIAN_FRONTEND=noninteractive
 
-ENV http_proxy=http://proxy.lan:8118
-ENV https_proxy=http://proxy.lan:8118
 COPY setup.py /root/
 ENV PATH="/root/.local/bin:${PATH}"
 
